@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+# save as shell script by changing the file extension from .txt to .sh
  
     
 	TIMESTAMP=$(date +%m%d%y%H%M%S)

@@ -8,6 +8,7 @@
 # or call from cron (make sure ssh key is loaded beforehand)
 # Requirements:
 #	Local user name must match remote (on server) user name
+# must change the file extension from .txt to .sh to make this a shell script
 
 ##########################
 

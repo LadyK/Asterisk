@@ -1,0 +1,7 @@
+#change file extension from .txt to .sh to make this a shell script
+
+#change directory to my folder of soundFiles
+cd /usr/share/asterisk/myFolder 
+
+#
+a=(*); echo -n ${a[$((RANDOM % ${#a[@]}))]} | sed 's/\.[a-z]*$//'
